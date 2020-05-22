@@ -1,0 +1,10 @@
+# sky lines over 3600-4800Ang
+# that give spurious emission-line
+# detections.  Empirically determined!
+# bolton@utah 2013jan
+3728.6 O_II
+4038.6 ??
+4046.6 ??
+4346.3 ??
+4352.6 ??
+4359.6 ??

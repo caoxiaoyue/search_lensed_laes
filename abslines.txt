@@ -1,0 +1,19 @@
+# Empirically determined rest-frame galaxy
+# emission features that are often under-subtracted
+# by the PCA models, leading to spurious residual
+# emission-line detections.
+# Only looking over observed-frame 3600-4800 Ang.,
+# motivated by Lyman-alpha search.
+# bolton@utah 2013jan
+2424.0 ??
+2776.7 ??
+2789.1 ??
+2797.3 ??
+2804.2 ??
+2812.8 ??
+3346.8 ??
+3426.7 ??
+3869.7 ??
+3889.6 ??
+3934.9 Ca_II_K
+3970.0 Ca_II_H
